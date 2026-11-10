@@ -175,11 +175,11 @@ This builds the image from the included `Dockerfile`, mounts your `.env` file, a
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Iamsaikumar14/NIT-rourkela-AI-agent-assistant/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/deepakp-tech/NIT-ROURKELA-AI-assistant).
 
 ## 📄 License
 
-No license file is currently included in this repository. Consider adding one (e.g. MIT) if you plan to accept external contributions.
+MIT licese 
 
 ---
 
